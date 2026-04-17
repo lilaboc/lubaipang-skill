@@ -110,7 +110,7 @@ __路白胖的认知操作系统。不是语录合集，是可运行的教育决
 ## 安装
 
 ```
-npx skills add /path/to/lubaipang-skill
+npx skills add lilaboc/lubaipang-skill
 ```
 
 或者在 Claude Code 里：
